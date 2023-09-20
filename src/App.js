@@ -1,4 +1,4 @@
-import logo from './favico.ico';
+import logo from './logo512.png';
 import './App.css';
 
 function App() {
